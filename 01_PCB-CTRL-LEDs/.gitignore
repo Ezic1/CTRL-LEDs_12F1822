@@ -1,0 +1,23 @@
+example-backups/
+# KiCad temp/autosave/lock files
+# Auto-saved folders
+#auto_saved_files#/
+_autosave-*/
+autosave/
+
+# Backups
+*-backups/
+rescue-backup/
+
+# Lock files
+*.lck
+~*.lck
+
+# Caches and local settings
+fp-info-cache
+*.kicad_prl
+
+# Legacy/other temp artifacts
+*~
+*.bak
+*.tmp
